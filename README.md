@@ -3,6 +3,6 @@ I am Li Kwing Hei (or simply known as Hei Li), a third year CS with Mathematics 
 
 I like:
   - Designing things that work
-  - Verifying why things work
+  - Verifying that things work
   - Implementing things that work
   - Toffee ice-creams
