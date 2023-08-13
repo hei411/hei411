@@ -1,5 +1,5 @@
 Hello there:)))
-I am Li Kwing Hei (or simply known as Hei Li), a third year CS with Mathematics student studying at the University of Cambridge.
+I am Li Kwing Hei (or simply known as Heili), a PhD student at Aarhus University.
 
 I like:
   - Designing things that work
